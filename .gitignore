@@ -1,0 +1,5 @@
+cars*/
+venv/
+*.tmp
+test*
+*.txt
