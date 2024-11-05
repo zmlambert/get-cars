@@ -1,3 +1,3 @@
-chompjs==1.2.3
-requests==2.31.0
+chompjs==1.3.0
+requests==2.32.3
 wget==3.2
